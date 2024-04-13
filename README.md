@@ -1,6 +1,3 @@
-
-Certainly! Here's a draft text you can use to present your server setup with all original ESX Legacy scripts for easy configuration for novice users:
-
 ESX Legacy Server Configuration
 Welcome to our ESX Legacy server configuration! We've designed this setup to provide an easy starting point for novice server administrators and configurators who want to create their own FiveM server using the ESX framework.
 
